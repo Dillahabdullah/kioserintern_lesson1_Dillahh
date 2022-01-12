@@ -1,0 +1,18 @@
+Git merupakan salah satu alat yang sering kali digunakan dalam proyek pengembangan perangkat lunak. Git dengan kata lain adalah suatu sistem pengontrol versi (Version Control System) yang ada pada proyek perangkat lunak yang dibuat oleh Linus Torvalds.
+
+Git juga dikenal dengan ditributed revision control (VCS terdistribusi), yaitu penyimpanan database Git yang tidak hanya berada dalam satu tempat. Karna semua orang yang terlibat dalam pengkodean proyek akan menyimpan database Git, sehingga memudahkan dalam pengelolaan proyek secara online dan offline.
+
+Yang dilakukan oleh Git adalah menyatukan semua perubahan yang terjadi pada proyek file.
+
+Saat tidak menggunakan Git dan misalnya pada saat kita akan menyimpan semua perubahan pada file, biasanya kita akan membuat file baru dan file akan terus menumpuk dalam direktori proyek. Sedangkan saat menggunakan Git hanya ada satu file dan perubahannya disimpan dalam database.
+
+Git hanya akan menyimpan delta perubahannya saja, dia tidak akan memakan banyak ruang penyimpanan.
+
+Terdapat beberapa manfaat yang dirasakan setelah bisa menggunakan Git, antara lain:
+
+Bisa menyimpan seluruh versi source code;
+Bisa paham cara berkolaborasi dalam proyek;
+Bisa ikut berkontribusi ke proyek open source;
+Lebih aman digunakan unruk berkolabosari, karena kita bisa tahu apa yang diubah dan siapa yang mengubahnya.
+Bisa memahamai cara menyebarkan aplikasi modern;
+Bisda membuat blog dengan SSG, dan lain sebagainya.
